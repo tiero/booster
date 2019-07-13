@@ -5,12 +5,17 @@
 ## Development
 
 ### Install
-`$ npm install`
+```
+$ npm install
+```
 
-
-### Development 
+### Build css 
 ```
 $ npm run build-css
+```
+
+### Serve 
+```
 $ npm run serve
 ```
 

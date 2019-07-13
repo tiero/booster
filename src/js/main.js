@@ -14,7 +14,9 @@ Vue.use(VueResource);
 
 new Vue({
   el: '#app',
-  data: {},
+  data: {
+
+  },
   methods: {},
   beforeMount: beforeMount,
   mounted: mounted,
